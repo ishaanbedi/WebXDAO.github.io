@@ -1,4 +1,4 @@
-import { prefix } from "../../constants"
+import { prefix } from '../../constants'
 
 const Testimonials = () => {
   const data = [

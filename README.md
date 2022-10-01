@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-<img alt="WebXDAO banner" src="https://user-images.githubusercontent.com/72812470/189705065-58fe76da-080b-4798-94fe-2400af2bbfa8.png"/>
+<img alt='WebXDAO banner' src='https://user-images.githubusercontent.com/72812470/189705065-58fe76da-080b-4798-94fe-2400af2bbfa8.png'/>
 
 ---
 
